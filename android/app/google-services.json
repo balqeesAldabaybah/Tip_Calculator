@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "839550299827",
+    "firebase_url": "https://tip-calculator-f3c7b.firebaseio.com",
+    "project_id": "tip-calculator-f3c7b",
+    "storage_bucket": "tip-calculator-f3c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839550299827:android:6b4c689ab33fcc0a",
+        "android_client_info": {
+          "package_name": "com.tip.tipcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839550299827-rfrar2fh2d113sqtct7gldnnisd8kv3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW-L3L1k9FbYk3VoB_aChtNuwVzExqsyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
